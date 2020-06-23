@@ -1,0 +1,31 @@
+
+body {
+  margin: 0;
+ }
+ .pepper {
+  background: #ED1C24;
+  min-height: 100px;
+  font: 60px Impact, sans-serif;
+  color: #fff;
+  white-space: nowrap;
+  padding-left: 20px;
+  position: relative;
+ }
+ .pepper span {
+  position: absolute;
+  bottom: -13px;
+ }
+ .ramka{
+   margin-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+   background: #FFCC00;
+   width: 600px;
+   height: 300px;
+   border: 15px;
+   border-style: solid;
+   padding: 60px;
+   text-align: center;
+   font-size: 60px;
+   font-style: italic;
+}
